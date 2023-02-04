@@ -1,5 +1,1 @@
-import BaseModal from './src/components/BaseModal';
-
-export { BaseModal };
-
-export default BaseModal;
+export * from './components/BaseModal';
