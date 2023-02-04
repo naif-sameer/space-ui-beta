@@ -1,0 +1,9 @@
+{
+    "name": "space-ui-beta",
+    "version": "0.0.1",
+    "description": "ui components",
+    "main": "index.js",
+    "scripts": {},
+    "dependencies": {},
+    "author": "Naif Sameer"
+}
