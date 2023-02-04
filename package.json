@@ -1,6 +1,6 @@
 {
     "name": "space-ui-beta",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "ui components",
     "main": "./src/components/index.js",
     "scripts": {},
